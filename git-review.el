@@ -1,6 +1,6 @@
 ;; git-review.el --- A user interface for git-review
 
-;; Copyright (C) 2013 Alexey Zasimov <zasimov@gmail.com<
+;; Copyright (C) 2013 Alexey Zasimov <zasimov@gmail.com>
 
 ;; Version: 0.1
 
